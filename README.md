@@ -42,7 +42,7 @@ pip install python-docx
 4. Run the script using Python:
 
 ```bash
-python random_file_generator.py
+python main.py
 ```
 
 5. Follow the on-screen prompts to:
